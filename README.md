@@ -1,1 +1,1 @@
-# managing-packages-with-npm
+# Backend Challenges boilerplate - package.json
